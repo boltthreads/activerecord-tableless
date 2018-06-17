@@ -38,7 +38,7 @@ Gem::Specification.new do |gem|
 
   gem.add_development_dependency('capybara', '~> 2.17')
   gem.add_development_dependency('coveralls')
-  gem.add_development_dependency('gem-release', '~> 1.0.0')
+  gem.add_development_dependency('gem-release', '~> 2.0.1')
   gem.add_development_dependency('listen')
   gem.add_development_dependency('nokogiri', '~> 1.0')
   gem.add_development_dependency('rails')
