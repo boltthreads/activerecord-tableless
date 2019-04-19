@@ -36,7 +36,7 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency('rspec', '~> 3.1')
   gem.add_development_dependency('rspec-collection_matchers', '~> 1.0')
 
-  gem.add_development_dependency('capybara', '~> 2.17')
+  gem.add_development_dependency('capybara', '~> 3.17')
   gem.add_development_dependency('coveralls')
   gem.add_development_dependency('gem-release', '~> 1.0.0')
   gem.add_development_dependency('listen')
